@@ -1,0 +1,57 @@
+#main-title {
+    text-align: center;
+    height: fit-content;
+    width: 520px;
+    margin: auto;
+    color: black;
+    background-color: #ffffff;
+    font-size: 64px;
+}
+
+.sub-title {
+    text-align: center;
+    height: fit-content;
+    width: 520px;
+    margin: auto;
+    color: black;
+    background-color: #ffffff;
+    font-size: 48px;
+}
+
+.Recipes {
+    background-color: #ffffff;
+    width: 480px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    color: black;
+    font-size: 32px;
+}
+
+.paragraph {
+    background-color: #ffffff;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    height: 180px;
+    width: 520px;
+    margin: auto;
+}
+
+div {
+    background-color: white;
+    width: 520px;
+    height: 20px;
+    margin:0 auto;
+}
+
+body {
+    background-color: #03fc77;
+}
+
+#pic1 {
+    float: right;
+}
+#pic2 {
+    float: left;
+}
